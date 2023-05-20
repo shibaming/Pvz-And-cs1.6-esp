@@ -3,3 +3,6 @@
 *
 # 效果图
 ![Image text](https://github.com/shibaming/Pvz-And-cs1.6-esp/blob/main/effect/cs.png)
+
+![Image text](https://github.com/shibaming/Pvz-And-cs1.6-esp/blob/main/effect/pvz.png)
+
